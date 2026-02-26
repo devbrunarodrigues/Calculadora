@@ -34,6 +34,7 @@ class ResultActivity : AppCompatActivity() {
             "OBESIDADE GRAVE"
         }
 
+
         tvClassificacao.text = classificacao
 
     }
